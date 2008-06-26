@@ -1,4 +1,0 @@
-== Example acts_as_revisable for association tracking
-
-The purpose of this app is to demonstrate how to handle revising an 
-associated model along with a parent model.
